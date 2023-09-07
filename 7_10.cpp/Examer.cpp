@@ -6,7 +6,7 @@ using namespace std;
 * This program utilizes comparison of arrays using for loops and if/else statements to keep track of the scores.
 * 
 *
-* Matanda Hillary Phiri
+* Matanda Hillary Phiri.
 */
 
 int main() {
