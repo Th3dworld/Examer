@@ -21,6 +21,7 @@ int main() {
 
 	int scored = 0, missed = 0;
 	char start;
+	int xniq = 0;
 	
 
 	//Display intruction
